@@ -1,0 +1,21 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+backend/*.pdf
+backend/*.docx
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.production.local
+
+# MacOS
+.DS_Store
+
+# Misc
+.gemini/
+.agent/
+.env
+tmp/
