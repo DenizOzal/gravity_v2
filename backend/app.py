@@ -1,3 +1,8 @@
+import os
+import re
+import tempfile
+import uuid
+from flask import Flask, request, jsonify, send_file
 from flask_cors import CORS
 from pdf2docx import Converter
 import mammoth

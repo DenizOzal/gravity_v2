@@ -2,5 +2,6 @@ flask
 flask-cors
 pdf2docx
 mammoth
-weasyprint
+reportlab
 gunicorn
+python-docx
